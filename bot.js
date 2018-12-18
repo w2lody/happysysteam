@@ -599,7 +599,7 @@ client.on("message", message => {
 =========================================================
 وقريباً المزيد من الاكواد
 =========================================================
-Support server : https://discord.gg/xTK8jku
+Support server : https://discord.gg/JqsbK3Q
 `)
    message.author.sendEmbed(embed)
    
